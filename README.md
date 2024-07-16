@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a Java developer and studied Java about a year 🧑‍💻
+
+My first commercial project that you can see [here](https://гомеопатлипецк.рф) <br>
+> And repo for this site 👀 https://github.com/sanekprofit/multi-page-website
+
 <!--
 **sanekprofit/sanekprofit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
